@@ -1,0 +1,7 @@
+{
+  "name": "mahameru-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "mahameru.frontend",
+	"appName": "mahameru-frontend",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
