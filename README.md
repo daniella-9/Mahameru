@@ -4,6 +4,6 @@
   <br>
 <p>The <b>Tim B</b> progress of project <b>Mahameru</b> can be found here <a href="https://github.com/HakiruKamiZX/MahameruFrontendTimB">Frontend</a> and <a href="https://github.com/farrasalif1302/MahameruBackendTimB">here</a></p>
 
-<br> <br>
+<br>
 
 And all progress from project <b>Mahameru</b> can be found here for <a href="https://github.com/DhiaReza/MahameruFrontend">Frontend</a> and <a href="https://github.com/DhiaReza/MahameruBackend">Backend</a>
